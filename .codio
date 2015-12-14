@@ -1,0 +1,15 @@
+{
+  // Configure your Run and Preview buttons here.
+
+  // Run button configuration
+  "commands": {
+    "Start Metalsmith": "npm start",
+    "Start Ungit": "npm run ungit"
+  },
+
+  // Preview button configuration
+  "preview": {
+    "Preview Website": "http://{{domain}}:3000/",
+    "Ungit Interface": "http://{{domain}}:8448/#/repository?path=workspace"
+  }
+}
