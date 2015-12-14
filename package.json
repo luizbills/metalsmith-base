@@ -13,6 +13,8 @@
     "metalsmith": "2.1.0",
     "metalsmith-cssnext": "1.0.0",
     "metalsmith-ignore": "0.1.2",
+    "metalsmith-metadata": "0.0.4",
+    "metalsmith-metaobject": "0.1.0",
     "metalsmith-nunjucks": "0.0.1",
     "metalsmith-permalinks": "0.4.0",
     "metalsmith-serve": "0.0.6",

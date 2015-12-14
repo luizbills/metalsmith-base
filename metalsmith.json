@@ -17,8 +17,11 @@
     },
     
     "metalsmith-metaobject": {
-      "debug": true,
-      "codio_domain": "http://some-domain.codio.io"
+      "debug": true
+    },
+    
+    "metalsmith-metadata": {
+      "ENV": "env.json"
     },
     
     "metalsmith-ignore": {
