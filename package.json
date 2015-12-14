@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-base",
-  "version": "0.0.1",
+  "version": "1.2.0",
   "description": "luizbills' metalsmith project boilerplate",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "metalsmith": "2.1.0",
+    "metalsmith-browser-sync": "1.1.0",
     "metalsmith-cssnext": "1.0.0",
     "metalsmith-ignore": "0.1.2",
     "metalsmith-nunjucks": "0.0.1",
