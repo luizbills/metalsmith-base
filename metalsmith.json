@@ -16,6 +16,11 @@
       }
     },
     
+    "metalsmith-metaobject": {
+      "debug": true,
+      "codio_domain": "http://some-domain.codio.io"
+    },
+    
     "metalsmith-ignore": {
       "patterns": [
         "**/_*",
