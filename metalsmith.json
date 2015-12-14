@@ -1,17 +1,19 @@
 {
-    "destination": "_site",
-    "plugins": {
-        "metalsmith-ignore": {
-            "patterns": [
-                "**/_*",
-                "_**/**/*",
-                "**/_**/*",
-                "**/_**/**/*"
-            ]
-        },
-        "metalsmith-nunjucks": {
-            "pattern": "*.html",
-            "directory": "_templates"
-        }
+  "destination": "_site",
+  "plugins": {
+    "metalsmith-ignore": {
+      "patterns": [
+        "**/_*",
+        "_**/**/*",
+        "**/_**/*",
+        "**/_**/**/*"
+      ]
+    },
+    "metalsmith-nunjucks": {
+      "pattern": "*.html",
+      "directory": "_templates"
+    },
+    "metalsmith-cssnext": {
     }
+  }
 }
