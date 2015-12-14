@@ -9,11 +9,18 @@
         "**/_**/**/*"
       ]
     },
+
     "metalsmith-nunjucks": {
       "pattern": "*.html",
       "directory": "_templates"
     },
+
     "metalsmith-cssnext": {
+    },
+
+    "metalsmith-permalinks": {
+      "pattern": ":name",
+      "relative": false
     }
   }
 }
