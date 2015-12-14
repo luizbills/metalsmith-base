@@ -21,6 +21,16 @@
     "metalsmith-permalinks": {
       "pattern": ":name",
       "relative": false
+    },
+    
+    "metalsmith-browser-sync": {
+      "files": [
+        "src/*"
+      ],
+      "server": "_site",
+      "port": 9600,
+      "ghostMode": false,
+      "logLevel": "debug"
     }
   }
 }
