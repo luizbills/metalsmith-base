@@ -4,8 +4,7 @@
   "description": "luizbills' metalsmith project boilerplate",
   "main": "index.js",
   "scripts": {
-    "start": "metalsmith",
-    "ungit": "ungit"
+    "start": "metalsmith"
   },
   "keywords": [],
   "author": "Luiz Bills <luizpbills@gmail.com> (http://luizbills.about.me/)",
