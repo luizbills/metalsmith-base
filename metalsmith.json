@@ -11,8 +11,7 @@
     },
 
     "metalsmith-nunjucks": {
-      "pattern": "*.html",
-      "directory": "_templates"
+      "noCache": true
     },
 
     "metalsmith-cssnext": {
